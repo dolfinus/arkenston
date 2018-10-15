@@ -1,0 +1,14 @@
+{
+  "name": "arkenston",
+  "version": "1.0.0",
+  "description": "Crystal wiki project",
+  "author": "dolfinus <martinov_m_s_@mail.ru>",
+  "private": true,
+  "dependencies": {
+    "meta": "",
+    "meta-init": "",
+    "meta-git": "",
+    "meta-project": "",
+    "meta-exec": ""
+  }
+}

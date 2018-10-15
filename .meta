@@ -1,0 +1,6 @@
+{
+ "projects": {
+    "backend": "git@github.com:dolfinus/arkenston-backend",
+    "frontend": "git@github.com:dolfinus/arkenston-frontend"
+  }
+}
